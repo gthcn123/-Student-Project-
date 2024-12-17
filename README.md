@@ -1,4 +1,4 @@
-<img alt="X-2.0" height="300" src="https://i.postimg.cc/sDWcMSd6/IMG-20241216-143959-494.webp">
+<img alt="X-2.0" height="300" src="https://ibb.co/V9KYSfG">
 # Student Project
 هذا المشروع جزء من نشاط تعاوني بين الطلاب لتعلم العمل الجماعي باستخدام GitHub.
 
