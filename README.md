@@ -1,3 +1,4 @@
+<img alt="X-2.0" height="300" src="https://pin.it/Oq1nd6RAB">
 # Student Project
 هذا المشروع جزء من نشاط تعاوني بين الطلاب لتعلم العمل الجماعي باستخدام GitHub.
 
