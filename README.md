@@ -15,4 +15,4 @@
 
 
 ## للتواصل /
-<a href="https://wa.me/qr/55RLGRAK4NNCN1"><h1>Whatsapp</h1></a>
+<a href="https://wa.me/qr/55RLGRAK4NNCN1">Whatsapp</a>
