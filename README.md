@@ -12,3 +12,7 @@
 2. أنشئ فرعًا جديدًا.
 3. أضف تعديلاتك وقم برفعها.
 4. أرسل طلب دمج (Pull Request).
+
+
+##للتواصل /
+<a href="https://wa.me/qr/55RLGRAK4NNCN1"><h1 style ="color : red" >Whatsapp</h1></a>
