@@ -1,4 +1,4 @@
-<img alt="X-2.0" height="300" src="https://i.postimg.cc/Z5Gzr6CW/IMG-20241121-235607-918.jpg">
+<img alt="X-2.0" wight ="300" src="https://i.postimg.cc/Z5Gzr6CW/IMG-20241121-235607-918.jpg">
 # Student Project
 هذا المشروع جزء من نشاط تعاوني بين الطلاب لتعلم العمل الجماعي باستخدام GitHub.
 
@@ -17,4 +17,4 @@
 ## للتواصل 
 <a href="https://wa.me/qr/55RLGRAK4NNCN1">Whatsapp</a>
 <br>
-<a href="https://www.instagram.com/f.7yw/profilecard/?igsh=MjNwNWNkcWloNXA2"><h1 style = "color :red">Instagram</h1></a>
+<a href="https://www.instagram.com/f.7yw/profilecard/?igsh=MjNwNWNkcWloNXA2">Instagram</a>
