@@ -17,4 +17,4 @@
 ## للتواصل /
 <a href="https://wa.me/qr/55RLGRAK4NNCN1">Whatsapp</a>
 <br>
-<a href="https://www.instagram.com/f.7yw/profilecard/?igsh=MjNwNWNkcWloNXA2">Instagram</a>
+<a style = "color :red" href="https://www.instagram.com/f.7yw/profilecard/?igsh=MjNwNWNkcWloNXA2">Instagram</a>
