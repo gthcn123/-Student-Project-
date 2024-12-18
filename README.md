@@ -14,7 +14,7 @@
 4. أرسل طلب دمج (Pull Request).
 
 
-## للتواصل /
+## للتواصل 
 <a href="https://wa.me/qr/55RLGRAK4NNCN1">Whatsapp</a>
 <br>
-<a style = "color :red" href="https://www.instagram.com/f.7yw/profilecard/?igsh=MjNwNWNkcWloNXA2">Instagram</a>
+<a href="https://www.instagram.com/f.7yw/profilecard/?igsh=MjNwNWNkcWloNXA2"><h1 style = "color :red">Instagram</h1></a>
